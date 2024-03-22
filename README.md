@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-Repaso módulo 2
+Este proyecto es un repaso del modulo 2.
+
